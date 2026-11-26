@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alex ??
 
-<!--
-**alex-uncle/alex-uncle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer & AI Enthusiast passionate about building modern web applications, exploring LLM routers, and experimenting with autonomous agents.
 
-Here are some ideas to get you started:
+### ??? Tech Stack & Tools
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks & Runtimes:** Node.js, React, Express
+- **AI & ML:** DeepSeek, OpenAI, OmniRoute, Local LLM Tooling
+- **Version Control & CI/CD:** Git, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ?? What I'm Exploring
+- Automated multi-agent workflows and LLM routing
+- Local AI gateways & proxy infrastructures
+- Open-source developer tools and productivity hacks
+
+? *Feel free to explore my repositories or star this repo!*
